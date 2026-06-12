@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/mathiasb-cloud/mathiasb-cloud/blob/snake-output/snake.svg)
 
 ###
 
