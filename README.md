@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Software Developer Junior</h2>
+<h2 align="center">Software Engineer Junior - Technical Lead</h2>
 
 ###
 
