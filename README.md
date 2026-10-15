@@ -36,10 +36,10 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture data-importer="snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiasb-cloud/mathiasb-cloud/snake-output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathiasb-cloud/mathiasb-cloud/snake-output/snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/mathiasb-cloud/mathiasb-cloud/snake-output/snake.svg">
 </picture>
 
 ###
@@ -51,7 +51,7 @@
   <a href="https://www.instagram.com/mathlas_b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="66" height="54" alt="instagram logo"  />
   </a>
-  <a href="mathiasbbenites@gmail.com" target="_blank">
+  <a href="mailto:mathiasbbenites@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="54" alt="gmail logo"  />
   </a>
 </div>
@@ -59,8 +59,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=mathiasb-cloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-trophies.vercel.app/?username=mathiasb-cloud&theme=dracula&row=1&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
