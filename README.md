@@ -59,7 +59,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=mathiasb-cloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mathiasb-cloud&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-trophies.vercel.app/?username=mathiasb-cloud&theme=dracula&row=1&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
